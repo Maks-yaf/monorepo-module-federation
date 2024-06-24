@@ -9,6 +9,7 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "composite": true
+    "composite": true,
+
   }
 }
